@@ -2,7 +2,7 @@
     {
       "id": 1,
       "cover": "https://i.ibb.co/N2N1Rxh/2.png",
-      "title": "How to get your first job as a self-taught programmer",
+      "title": "JavaScript Objects for Absolute Beginner",
       "author": "John Doe",
       "author_img": "https://i.ibb.co/G9Ny8GC/boy1.png",
       "posted_date": "Mar 14 (4 Days ago)",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "cover": "https://i.ibb.co/ZJXfLdN/3.png",
-      "title": "How to get your first job as a self-taught programmer",
+      "title": "Component Lifecycle in React: Class Component vs Functional Component",
       "author": "Mrs. Setara",
       "author_img": "https://i.ibb.co/w7SGNhW/boy2.jpg",
       "posted_date": "Mar 14 (4 Days ago)",
