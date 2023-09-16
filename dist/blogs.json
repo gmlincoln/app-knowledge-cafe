@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/N2N1Rxh/2.png",
+      "title": "JavaScript Objects for Absolute Beginner",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/G9Ny8GC/boy1.png",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 5,
+      "hashtag": ["beginners", "programming"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/ZJXfLdN/3.png",
+      "title": "Component Lifecycle in React: Class Component vs Functional Component",
+      "author": "Mrs. Setara",
+      "author_img": "https://i.ibb.co/w7SGNhW/boy2.jpg",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 10,
+      "hashtag": ["beginners", "programming"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/jbhBG3x/4.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Chef Michael",
+      "author_img": "https://i.ibb.co/khQBgTr/girl1.jpg",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 8,
+      "hashtag": ["beginners", "programming"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/ZBrGhDj/1.jpg",
+      "title": "Learn Basic to Advance about ES6",
+      "author": "Sarah Johnson",
+      "author_img": "https://i.ibb.co/m5sc5jR/girl2.jpg",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 12,
+      "hashtag": ["beginners", "programming"]
+    }
+  ]
+  
